@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoube12r
-- 👀 I’m interested to be a pro  backend software engineer in java.
-- 🌱 I’m currently learning the basic of java
+- 👀 I’m interested to be a pro in data science.
+- 🌱 I’m currently learning the basic of python
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me in my email "youssefberani04@gmail.com"
 
